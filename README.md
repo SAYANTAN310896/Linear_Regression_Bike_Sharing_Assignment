@@ -5,7 +5,7 @@ They can accordingly manipulate the business strategy to meet the demand levels 
 Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 ## Table of Contents
-* [General Info])
+* [General Info]
 * [Technologies Used]
 * [Approch]
 * [Conclusions]
@@ -47,6 +47,9 @@ We are using the day.csv file and data_dictionary to understand what each column
 9. Feature selection using REF
 10. Checking P value and VIF and if necessary rebuild the model
 11. Checking the validity of model.
+12. Prediction on test set using the model learned on train set.
+13. Comparing the R2_score
+14. Draw conclusions
 
 
 
